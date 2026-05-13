@@ -3,12 +3,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/ManishSingh28/ManishSingh28"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Pursuing+B.Tech+From+IIT+Patna,;Interested+in+Data+Analysis,;Enthusiastic+Programmer!"></a>
+  <a href="https://github.com/ManishSingh28/ManishSingh28"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Graduated,+B.Tech.+From+IIT+Patna,;Interested+in+Data+Analysis,;Product"></a>
 </p>
 
 ### 💻 About Me
-- 🌱 Learning and experimenting with various programming languages and frameworks.
-- 🔭 Working on personal projects to sharpen my skills and expand my knowledge.
+- 🌱 Working Professional.
+- 🔭 Making personal projects to sharpen my skills and expand my knowledge.
 
 ## 💪 Skills 
 
